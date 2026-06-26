@@ -1,77 +1,68 @@
 # P4si
+<div align="center">
+
 # 👋 Hi, I'm Pallavi Pandey
 
-🚀 **Computer Science student passionate about Full-Stack Development and Problem Solving.**
+### ☕ Java Developer • 🌐 Full Stack Developer • 💻 Problem Solver
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
+🎓 Final Year B.Tech Computer Science Student @ GLA University
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pallavipcs27/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pallavipandey.2511@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+📍 Motihari, Bihar, India
 
-<h1 align="center">Hi there, I'm Pallavi Pandey 👋</h1>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 Final Year **B.Tech Computer Science** student at **GLA University**
-- 📍 From **Motihari, Bihar, India**
-- ☕ Passionate about **Java**, **Data Structures & Algorithms**, and **Full-Stack Development**
-- 🌱 Currently learning **Advanced React, TypeScript, Docker, and Backend Development**
-- 💼 Aspiring **Software Development Engineer (SDE)**
-- ⚡ I enjoy building scalable web applications and solving real-world coding problems.
-
----
-
-## 🛠️ Languages & Tools
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Java+Developer;Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Always+Learning+🚀"/>
 
 </div>
 
 ---
 
-## 🔥 My GitHub Stats
+# 👩‍💻 About Me
+
+```java
+class PallaviPandey {
+
+    String role = "Final Year B.Tech CSE Student";
+
+    String university = "GLA University";
+
+    String location = "Motihari, Bihar";
+
+    String interests =
+        "Java | MERN Stack | DSA | Backend Development";
+
+    String currentlyLearning =
+        "System Design, Docker & Advanced React";
+
+    String goal =
+        "Become a Software Development Engineer";
+
+}
+```
+
+---
+
+# 🎯 Why Me?
+
+- ☕ Strong Java fundamentals
+- 🚀 MERN Stack Developer
+- 💻 Passionate about Data Structures & Algorithms
+- 📚 Quick learner and problem solver
+- 🤝 Love building real-world applications
+- 🎯 Preparing for Software Development Engineer roles
+
+---
+
+# 🚀 What I'm Doing Now
+
+| 🎯 Current Focus | 🗺️ 2026 Goals |
+|:-----------------|:--------------|
+| ☕ Java + DSA | ✅ Crack Product-Based Company |
+| 🌐 MERN Stack | ✅ Master System Design |
+| ⚛️ React & TypeScript | ✅ Build Scalable Applications |
+| 🐳 Docker | ✅ Contribute to Open Source |
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -85,38 +76,108 @@
 
 ---
 
-## 🚀 Current Focus
+# 🛠 Tech Stack
 
-- ☕ Java & Data Structures & Algorithms
-- 🌐 Full Stack Development (MERN)
-- ⚛️ React & TypeScript
-- 🐳 Docker
-- 🔧 REST APIs & Backend Development
-- 💡 Building impactful software projects
+## ☕ Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,mysql"/>
+
+</p>
 
 ---
 
-## 📫 Connect with Me
+## ⚛️ Frontend
 
-<div align="left">
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+
+</p>
+
+---
+
+## ⚙️ Backend & Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
+</p>
+
+---
+
+## 🔧 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+### 💼 Job Portal
+
+> MERN Stack Job Portal with Authentication, Job Listings, Recruiter Dashboard & Candidate Applications.
+
+---
+
+### 🔍 Search Engine
+
+> High-performance Search Engine using Inverted Indexing and Node.js.
+
+---
+
+### 💰 Expense Tracker
+
+> Personal Expense Tracker built using HTML, CSS & JavaScript.
+
+---
+
+# 📈 Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
 
 <a href="mailto:pallavipandey.2511@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/pallavipcs27/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/pallavipcs27/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
-
-- 📧 **Email:** **pallavipandey.2511@gmail.com**
-- 💼 **LinkedIn:** **https://www.linkedin.com/in/pallavipcs27/**
+</p>
 
 ---
 
 <div align="center">
 
-### 💻✨ *"Code. Learn. Build. Repeat."* 🚀
+## 💻✨ *"Code. Learn. Build. Repeat."* 🚀
+
+<img src="https://komarev.com/ghpvc/?username=pallavics26&style=for-the-badge&color=blue" />
 
 </div>
