@@ -57,11 +57,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pallavipandeycs26&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pallavics26&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavipandeycs26&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavics26&layout=compact&theme=tokyonight" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=pallavipandeycs26&theme=tokyonight" height="220"/>
+<img src="https://streak-stats.demolab.com?user=pallavics26&theme=tokyonight" height="220"/>
 
 </div>
 
