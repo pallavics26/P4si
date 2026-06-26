@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="your-linkedin-url">
+  <a href="https://www.linkedin.com/in/pallavipcs27/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pallavipandey.2511@gmail.com">
@@ -16,80 +16,110 @@
   </a>
 </div>
 
-<h3>👩‍💻 About Me</h3>
-
-- 🎓 Final Year **B.Tech Computer Science** student at **GLA University**
-- 📍 From **Motihari, Bihar, India**
-- 💻 Passionate about **Full Stack Web Development**
-- ☕ Strong in **Java** and **Data Structures & Algorithms**
-- 🌱 Currently learning **Advanced React, TypeScript, Docker & Backend Development**
-- 🎯 Preparing for **Software Development Engineer (SDE)** roles
+<h1 align="center">Hi there, I'm Pallavi Pandey 👋</h1>
 
 ---
 
-<h3>🛠️ Languages & Tools</h3>
+## 👩‍💻 About Me
+
+- 🎓 Final Year **B.Tech Computer Science** student at **GLA University**
+- 📍 From **Motihari, Bihar, India**
+- ☕ Passionate about **Java**, **Data Structures & Algorithms**, and **Full-Stack Development**
+- 🌱 Currently learning **Advanced React, TypeScript, Docker, and Backend Development**
+- 💼 Aspiring **Software Development Engineer (SDE)**
+- ⚡ I enjoy building scalable web applications and solving real-world coding problems.
+
+---
+
+## 🛠️ Languages & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   <img width="12"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img width="12"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img width="12"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img width="12"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
   <img width="12"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img width="12"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
   <img width="12"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
   <img width="12"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
   <img width="12"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
   <img width="12"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
 </div>
 
 ---
 
-<h3>🔥 My GitHub Stats</h3>
+## 🔥 My GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pallavics26&show_icons=true&theme=tokyonight" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pallavics26&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavics26&layout=compact&theme=tokyonight" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavics26&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=pallavics26&theme=tokyonight" height="220"/>
+<img height="220" src="https://streak-stats.demolab.com?user=pallavics26&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-<h3>🚀 Current Focus</h3>
+## 🚀 Current Focus
 
-- ☕ Java & DSA
+- ☕ Java & Data Structures & Algorithms
 - 🌐 Full Stack Development (MERN)
 - ⚛️ React & TypeScript
 - 🐳 Docker
 - 🔧 REST APIs & Backend Development
+- 💡 Building impactful software projects
 
 ---
 
-<h3>📫 Connect with Me</h3>
+## 📫 Connect with Me
 
-- 📧 **Email:** pallavipandey.2511@gmail.com
-- 💼 **LinkedIn:** your-linkedin-url
-<!-- Optional -->
-<!-- 📱 Phone: +91 9778512937 -->
+<p align="left">
+
+<a href="mailto:pallavipandey.2511@gmail.com">
+  <img src="https://img.shields.io/badge/Email-pallavipandey.2511%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/pallavipcs27/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Pallavi%20Pandey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+📱 **Phone:** +91 9778512937
+
+</p>
 
 ---
 
 <div align="center">
 
-### ✨ *Code. Learn. Build. Repeat.*
+### 💭 Quote of the Day
+
+> **"Code. Learn. Build. Repeat."** 🚀
 
 </div>
