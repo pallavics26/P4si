@@ -1,35 +1,37 @@
 # P4si
-🚀 Computer Science student passionate about Full-Stack Development and Problem Solving.
+# 👋 Hi, I'm Pallavi Pandey
+
+🚀 **Computer Science student passionate about Full-Stack Development and Problem Solving.**
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 <div align="center">
   <a href="your-linkedin-url">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pallavipandey.2511@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-github-username" />
-</div>
-
-<h1 align="center">Hi there, I'm Pallavi Pandey 👋</h1>
-
-<h3 align="left">👩‍💻 About Me</h3>
+<h3>👩‍💻 About Me</h3>
 
 - 🎓 Final Year **B.Tech Computer Science** student at **GLA University**
 - 📍 From **Motihari, Bihar, India**
 - 💻 Passionate about **Full Stack Web Development**
-- 🌱 Currently learning **Advanced React, TypeScript, Docker, and Backend Development**
+- ☕ Strong in **Java** and **Data Structures & Algorithms**
+- 🌱 Currently learning **Advanced React, TypeScript, Docker & Backend Development**
 - 🎯 Preparing for **Software Development Engineer (SDE)** roles
-- ⚡ I enjoy building real-world web applications and solving DSA problems.
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+<h3>🛠️ Languages & Tools</h3>
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
@@ -53,7 +55,7 @@
 
 ---
 
-<h3 align="left">🔥 My GitHub Stats</h3>
+<h3>🔥 My GitHub Stats</h3>
 
 <div align="center">
 
@@ -67,18 +69,27 @@
 
 ---
 
-<h3 align="left">🚀 Current Focus</h3>
+<h3>🚀 Current Focus</h3>
 
-- 💼 Full Stack Development (MERN)
-- 📚 Data Structures & Algorithms (Java)
+- ☕ Java & DSA
+- 🌐 Full Stack Development (MERN)
 - ⚛️ React & TypeScript
 - 🐳 Docker
-- ☁️ Backend Development & REST APIs
+- 🔧 REST APIs & Backend Development
+
+---
+
+<h3>📫 Connect with Me</h3>
+
+- 📧 **Email:** pallavipandey.2511@gmail.com
+- 💼 **LinkedIn:** your-linkedin-url
+<!-- Optional -->
+<!-- 📱 Phone: +91 9778512937 -->
 
 ---
 
 <div align="center">
 
-### ✨ *"Code. Learn. Build. Repeat."* ✨
+### ✨ *Code. Learn. Build. Repeat.*
 
 </div>
